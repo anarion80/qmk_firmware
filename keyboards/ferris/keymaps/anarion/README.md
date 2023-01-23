@@ -16,27 +16,27 @@ What do all these layers do?
 
 ### Layer 1: Base layer
 
-![Layer 1](pics/anarion's-sweep-base-layer.png)
+![Layer 1](https://raw.githubusercontent.com/anarion80/sweep_qmk/main/pics/anarion's-sweep-base-layer.png)
 
 Querty layer with all the keys and some basic symbols. Dedicated Space, Left Shift, Right Control, Mod-Tap modifiers on home row.
 Enter, Backspace and Tab are available on all other layers.
 
 ### Layer 2: Navigation
 
-![Layer 2](pics/anarion's-sweep-layer-2.png)
+![Layer 2](https://raw.githubusercontent.com/anarion80/sweep_qmk/main/pics/anarion's-sweep-layer-2.png)
 
 Layer 2 is a Navigation layer - cursor keys, mouse movement and scrolling, other navigation keys are here.
 Going back to Layer 1 is always under left thumb key.
 
 ### Layer 3: Symbols
 
-![Layer 3](pics/anarion's-sweep-layer-3.png)
+![Layer 3](https://raw.githubusercontent.com/anarion80/sweep_qmk/main/pics/anarion's-sweep-layer-3.png)
 
 Numbers on the right, symbols on the left.
 
 ### Layer 4: Audio/Function
 
-![Layer 4](pics/anarion's-sweep-layer-4.png)
+![Layer 4](https://raw.githubusercontent.com/anarion80/sweep_qmk/main/pics/anarion's-sweep-layer-4.png)
 
 Function keys on the right, audio and brightness control on the left.
 
