@@ -19,7 +19,7 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
-#include "config_common.h"
+// #include "config_common.h"
 
 // ┌─────────────────────────────────────────────────┐
 // │ s p l i t   c o m m u n i c a t i o n           │
