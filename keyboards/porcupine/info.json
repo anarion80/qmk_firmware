@@ -37,9 +37,9 @@
     },
     "mouse_key": {
         "enabled": true,
-        "delay": 5,
+        "delay": 0,
         "interval": 16,
-        "max_speed": 22
+        "max_speed": 6
     },
     "tapping": {
         "force_hold": true,
@@ -54,6 +54,9 @@
         "retro_per_key": false,
         "term": 175,
         "term_per_key": false
+    },
+    "caps_word": {
+        "enabled": true
     },
     "layouts": {
         "LAYOUT_5x3_3": {
